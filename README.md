@@ -18,8 +18,8 @@ The focus is on the **adaptive logic and reasoning**, not on complex UI or visua
 
 ### 🏗 Project Structure
 
-```
-math-adaptive-learning/
+
+### math-adaptive-learning/
 ├── README.md
 |
 ├── requirements.txt
@@ -33,6 +33,7 @@ math-adaptive-learning/
     ├── tracker.py           # Session performance tracking
     |
     └── adaptive_engine.py   # ML-style adaptive engine (skill score)
+```
 ```
 
 ### Core Components
@@ -138,5 +139,6 @@ Then open the URL shown in the terminal (usually `http://localhost:8501`) in you
 **Your Name (starlord78275)**  
 Adaptive Learning Assignment – Math Adventures Prototype
 ```
+
 
 
