@@ -21,11 +21,17 @@ The focus is on the **adaptive logic and reasoning**, not on complex UI or visua
 ```
 math-adaptive-learning/
 ├── README.md
+|
 ├── requirements.txt
+|
 └── src/
+    |
     ├── main.py              # Streamlit app (UI + orchestration)
+    |
     ├── puzzle_generator.py  # Math puzzle generator by difficulty
+    |
     ├── tracker.py           # Session performance tracking
+    |
     └── adaptive_engine.py   # ML-style adaptive engine (skill score)
 ```
 
@@ -132,3 +138,4 @@ Then open the URL shown in the terminal (usually `http://localhost:8501`) in you
 **Your Name (starlord78275)**  
 Adaptive Learning Assignment – Math Adventures Prototype
 ```
+
