@@ -17,7 +17,8 @@ This project implements a minimal adaptive learning system that:
 The focus is on the **adaptive logic and reasoning**, not on complex UI or visuals. [file:1]
 
 ### 🏗 Project Structure
-
+```
+```
 
 ### math-adaptive-learning/
 ├── README.md
@@ -139,6 +140,7 @@ Then open the URL shown in the terminal (usually `http://localhost:8501`) in you
 **Your Name (starlord78275)**  
 Adaptive Learning Assignment – Math Adventures Prototype
 ```
+
 
 
 
